@@ -2,4 +2,4 @@
 Repositório das atividades (HTML) da disciplina de DESENVOLVIMENTO WEB I.
 Lista de atividades:
 - Atividade 1
-- [Atividade](atividade1.html)
+- [Atividade 1](atividade1.html)
