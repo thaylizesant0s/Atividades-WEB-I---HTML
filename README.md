@@ -25,4 +25,4 @@ Bem-vindo ao repositório das atividades da disciplina **Desenvolvimento Web I**
 
 ---
 
-Obrigado por visitar o repositório!
+Obrigada por visitar o repositório!
