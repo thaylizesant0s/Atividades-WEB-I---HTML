@@ -1,21 +1,28 @@
-# Atividades-WEB-I---HTML
-Repositório das atividades (HTML) da disciplina de DESENVOLVIMENTO WEB I.
+# Repositório de Atividades - Desenvolvimento Web I (HTML)
 
-#
-### Atividades e seus repectivos links:
-#
-* Atividade 1: _[link](https://github.com/thaylizesant0s/Atividades-WEB-I---HTML/blob/main/Atividade1.html)_
-ˋˋˋ
-* Atividade 2: _[link](https://github.com/thaylizesant0s/Atividades-WEB-I---HTML/blob/main/Atividade2.html)_
-* Atividade 3: _[link](https://github.com/thaylizesant0s/Atividades-WEB-I---HTML/blob/main/Atividade3.html)_
-* Atividade 4: _[link](https://github.com/thaylizesant0s/Atividades-WEB-I---HTML/blob/main/Atividade4.html)_
-* Atividade 5: _[link](https://github.com/thaylizesant0s/Atividades-WEB-I---HTML/blob/main/Atividade5.html)_
-* Atividade 6: _[link](https://github.com/thaylizesant0s/Atividades-WEB-I---HTML/blob/main/Atividade6.html)_
-* Atividade 7: _[link](https://github.com/thaylizesant0s/Atividades-WEB-I---HTML/blob/main/Atividade7.html)_
-* Atividade 8: _[link](https://github.com/thaylizesant0s/Atividades-WEB-I---HTML/blob/main/Atividade8.html)_
-* Atividade 9: _[link](https://github.com/thaylizesant0s/Atividades-WEB-I---HTML/blob/main/Atividade9.html)_
-* Atividade 10: _[link](https://github.com/thaylizesant0s/Atividades-WEB-I---HTML/blob/main/Atividade10.html)_
-* Atividade 11: _[link](https://github.com/thaylizesant0s/Atividades-WEB-I---HTML/blob/main/Atividade11.html)_
-* Atividade 12: _[link](https://github.com/thaylizesant0s/Atividades-WEB-I---HTML/blob/main/Atividade12.html)_
-* Atividade 13: _[link](https://github.com/thaylizesant0s/Atividades-WEB-I---HTML/blob/main/Atividade13.html)_
-* Atividade 14: _[link](https://github.com/thaylizesant0s/Atividades-WEB-I---HTML/blob/main/Atividade14.html)_
+Bem-vindo ao repositório das atividades da disciplina **Desenvolvimento Web I**!
+
+---
+
+## Índice de Atividades
+
+| Atividade | Link |
+|-----------|------|
+| Atividade 1 | [_Visualizar_](https://github.com/thaylizesant0s/Atividades-WEB-I---HTML/blob/main/Atividade1.html) |
+| Atividade 2 | [_Visualizar_](https://github.com/thaylizesant0s/Atividades-WEB-I---HTML/blob/main/Atividade2.html) |
+| Atividade 3 | [_Visualizar_](https://github.com/thaylizesant0s/Atividades-WEB-I---HTML/blob/main/Atividade3.html) |
+| Atividade 4 | [_Visualizar_](https://github.com/thaylizesant0s/Atividades-WEB-I---HTML/blob/main/Atividade4.html) |
+| Atividade 5 | [_Visualizar_](https://github.com/thaylizesant0s/Atividades-WEB-I---HTML/blob/main/Atividade5.html) |
+| Atividade 6 | [_Visualizar_](https://github.com/thaylizesant0s/Atividades-WEB-I---HTML/blob/main/Atividade6.html) |
+| Atividade 7 | [_Visualizar_](https://github.com/thaylizesant0s/Atividades-WEB-I---HTML/blob/main/Atividade7.html) |
+| Atividade 8 | [_Visualizar_](https://github.com/thaylizesant0s/Atividades-WEB-I---HTML/blob/main/Atividade8.html) |
+| Atividade 9 | [_Visualizar_](https://github.com/thaylizesant0s/Atividades-WEB-I---HTML/blob/main/Atividade9.html) |
+| Atividade 10 | [_Visualizar_](https://github.com/thaylizesant0s/Atividades-WEB-I---HTML/blob/main/Atividade10.html) |
+| Atividade 11 | [_Visualizar_](https://github.com/thaylizesant0s/Atividades-WEB-I---HTML/blob/main/Atividade11.html) |
+| Atividade 12 | [_Visualizar_](https://github.com/thaylizesant0s/Atividades-WEB-I---HTML/blob/main/Atividade12.html) |
+| Atividade 13 | [_Visualizar_](https://github.com/thaylizesant0s/Atividades-WEB-I---HTML/blob/main/Atividade13.html) |
+| Atividade 14 | [_Visualizar_](https://github.com/thaylizesant0s/Atividades-WEB-I---HTML/blob/main/Atividade14.html) |
+
+---
+
+Obrigado por visitar o repositório!
