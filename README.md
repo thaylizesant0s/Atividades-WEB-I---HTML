@@ -1,6 +1,6 @@
 # Repositório de Atividades - Desenvolvimento Web I (HTML)
 
-Bem-vindo ao repositório das atividades da disciplina **Desenvolvimento Web I**!
+Bem-vindo(a) ao repositório das atividades da disciplina **Desenvolvimento Web I**!
 
 ---
 
